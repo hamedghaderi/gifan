@@ -5,7 +5,7 @@ import './../css/app.css'
 import { tooltip } from './tooltip'
 import { nav } from './nav'
 import { themeToggler } from './themeToggler'
-import { Dropdown } from './Dropdown'
+import { Dropdown } from './dropdown'
 
 tooltip({ theme: 'dark' })
 nav()

@@ -1,4 +1,4 @@
-import { Settings } from './Settings'
+import { Settings } from './settings'
 
 export function themeToggler() {
     const parent = document.querySelector('#theme-toggler')
